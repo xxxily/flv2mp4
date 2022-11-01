@@ -17,6 +17,17 @@ npm install flv2mp4 --global
 yarn global add flv2mp4
 ```
 
+中国大陆用户可使用阿里源进行加速安装
+
+```sh
+# npm
+npm install flv2mp4 --global --registry=https://registry.npmmirror.com
+
+# yarn
+
+yarn global add flv2mp4 --registry=https://registry.npmmirror.com
+```
+
 ### 使用脚本
 
 去到存在flv文件地方，直接运行以下命令

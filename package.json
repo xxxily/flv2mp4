@@ -11,7 +11,6 @@
     "flvtomp4": "./bin/index.js"
   },
   "author": "Blaze",
-  "private": true,
   "publishConfig": {
     "registry": "https://github.com/xxxily/flv2mp4.git"
   },
