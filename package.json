@@ -12,7 +12,7 @@
   },
   "author": "Blaze",
   "publishConfig": {
-    "registry": "https://github.com/xxxily/flv2mp4.git"
+    "registry": "https://registry.npmjs.org"
   },
   "homepage": "https://github.com/xxxily/flv2mp4",
   "repository": "https://github.com/xxxily/flv2mp4",
